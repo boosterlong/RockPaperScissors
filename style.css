@@ -1,0 +1,27 @@
+div {
+    text-align: center;
+    font-family: Arial;
+  }
+  
+  button {
+    display: inline-block;
+    margin: auto;
+    margin-top: 10px;
+    padding: 10px;
+    justify-content: center;
+    border-radius: 50px;
+    background-color: black;
+    color: white;
+    width: 20%;
+    font-size: large;
+  }
+  
+  body {
+      background-color:lavenderblush;
+  }
+
+  p {
+      font-size: large;
+      line-height: 40px;
+      padding:20px;
+  }
